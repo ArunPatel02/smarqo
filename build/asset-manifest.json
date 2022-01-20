@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "./static/css/main.5aebe36d.css",
-    "main.js": "./static/js/main.e51f1c23.js",
-    "static/js/787.a5f76b4a.chunk.js": "./static/js/787.a5f76b4a.chunk.js",
-    "static/media/Mask Group 2.png": "./static/media/Mask Group 2.540ee9f0f18dd91f58c6.png",
-    "static/media/pexels-karolina-grabowska-6029170.png": "./static/media/pexels-karolina-grabowska-6029170.8d8aa7d68663e308d244.png",
-    "static/media/profilem2.png": "./static/media/profilem2.f81d1e8ad4c7398d2829.png",
-    "index.html": "./index.html",
-    "main.5aebe36d.css.map": "./static/css/main.5aebe36d.css.map",
-    "main.e51f1c23.js.map": "./static/js/main.e51f1c23.js.map",
-    "787.a5f76b4a.chunk.js.map": "./static/js/787.a5f76b4a.chunk.js.map"
+    "main.css": "/smarqo.kpiadvice.com/build/static/css/main.5aebe36d.css",
+    "main.js": "/smarqo.kpiadvice.com/build/static/js/main.a415b701.js",
+    "static/js/787.a5f76b4a.chunk.js": "/smarqo.kpiadvice.com/build/static/js/787.a5f76b4a.chunk.js",
+    "static/media/Mask Group 2.png": "/smarqo.kpiadvice.com/build/static/media/Mask Group 2.540ee9f0f18dd91f58c6.png",
+    "static/media/pexels-karolina-grabowska-6029170.png": "/smarqo.kpiadvice.com/build/static/media/pexels-karolina-grabowska-6029170.8d8aa7d68663e308d244.png",
+    "static/media/profilem2.png": "/smarqo.kpiadvice.com/build/static/media/profilem2.f81d1e8ad4c7398d2829.png",
+    "index.html": "/smarqo.kpiadvice.com/build/index.html",
+    "main.5aebe36d.css.map": "/smarqo.kpiadvice.com/build/static/css/main.5aebe36d.css.map",
+    "main.a415b701.js.map": "/smarqo.kpiadvice.com/build/static/js/main.a415b701.js.map",
+    "787.a5f76b4a.chunk.js.map": "/smarqo.kpiadvice.com/build/static/js/787.a5f76b4a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5aebe36d.css",
-    "static/js/main.e51f1c23.js"
+    "static/js/main.a415b701.js"
   ]
 }
