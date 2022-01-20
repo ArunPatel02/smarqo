@@ -1,0 +1,5 @@
+---
+deployment:
+ tasks:
+ - export DEPLOYPATH=/home/kpiadvice/public_html/smarqo.kpiadvice.com
+ - /bin/cp * $DEPLOYPATH

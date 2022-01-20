@@ -1,0 +1,13 @@
+:root {
+  --primary-color: #202020;
+  --white : #ffff;
+  --btn-bgcolor: #060606;
+  --primary-text-color: #607395;
+  --header-text-color1: #5d6277;
+  --header-text-color2: #4d5163;
+  --header-text-color3: #9298b5;
+  --boder-color : #707070;
+  --margin-default : 0px 2rem;
+  --padding-default : 3rem 0px;
+  --max-width : 1400px;
+}
