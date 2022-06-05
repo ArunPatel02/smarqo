@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/smarqo/static/css/main.8eed9c27.css",
-    "main.js": "/smarqo/static/js/main.1edccb93.js",
+    "main.css": "/smarqo/static/css/main.bab1b14a.css",
+    "main.js": "/smarqo/static/js/main.7e70b7bd.js",
     "static/js/787.a5f76b4a.chunk.js": "/smarqo/static/js/787.a5f76b4a.chunk.js",
     "static/media/Mask Group 2.png": "/smarqo/static/media/Mask Group 2.540ee9f0f18dd91f58c6.png",
     "static/media/pexels-karolina-grabowska-6029170.png": "/smarqo/static/media/pexels-karolina-grabowska-6029170.8d8aa7d68663e308d244.png",
     "static/media/profilem2.png": "/smarqo/static/media/profilem2.f81d1e8ad4c7398d2829.png",
     "index.html": "/smarqo/index.html",
-    "main.8eed9c27.css.map": "/smarqo/static/css/main.8eed9c27.css.map",
-    "main.1edccb93.js.map": "/smarqo/static/js/main.1edccb93.js.map",
+    "main.bab1b14a.css.map": "/smarqo/static/css/main.bab1b14a.css.map",
+    "main.7e70b7bd.js.map": "/smarqo/static/js/main.7e70b7bd.js.map",
     "787.a5f76b4a.chunk.js.map": "/smarqo/static/js/787.a5f76b4a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8eed9c27.css",
-    "static/js/main.1edccb93.js"
+    "static/css/main.bab1b14a.css",
+    "static/js/main.7e70b7bd.js"
   ]
 }
