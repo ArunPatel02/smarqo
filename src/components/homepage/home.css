@@ -103,7 +103,7 @@
   right: 0px;
   width: 100%;
   display: flex;
-  justify-content: end;
+  justify-content: flex-end;
   font-weight: 500;
 }
 
@@ -120,7 +120,7 @@
 .homewrapper .home_right .home_right_section2 {
   width: 100%;
   display: flex;
-  justify-content: end;
+  justify-content: flex-end;
 }
 
 .homewrapper .home_right .home_right_section2 .section2_type2 {
@@ -180,7 +180,7 @@
   right: 0px;
   width: 100%;
   display: flex;
-  justify-content: end;
+  justify-content: flex-end;
   font-weight: 600;
 }
 

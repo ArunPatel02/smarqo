@@ -3,6 +3,10 @@
 .header_container {
   height: fit-content;
   box-shadow: 0px 0px 10px rgb(0 0 0 / 11%);
+  position: sticky;
+  top: 0;
+  z-index: 1000000;
+  background-color: white;
 }
 
 .header_container .header {
@@ -108,11 +112,12 @@
   .header
   .right_header
   .right_header_section2
-  .login_signup_btns svg{
-    font-size: 1.3rem;
-    color: var(--boder-color);
-    cursor: pointer;
-  }
+  .login_signup_btns
+  svg {
+  font-size: 1.3rem;
+  color: var(--boder-color);
+  cursor: pointer;
+}
 
 /* .header_container
   .header

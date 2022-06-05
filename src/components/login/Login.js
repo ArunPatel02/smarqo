@@ -31,7 +31,7 @@ const useStyles = makeStyles({
     alignItems: "center",
     color: "#4E4E4E",
     marginTop: "30px",
-    fontSize : ".8rem",
+    fontSize: ".8rem",
     "& a": {
       textDecoration: "underline",
       color: "#001D61",
@@ -82,7 +82,7 @@ const Login = () => {
         <div>Offering a Service?</div>
         <Link to="/postRequirementNow">Join as a professional</Link>
       </div>
-      <div className={classes.bottom} style={{marginBottom : "6rem"}}>
+      <div className={classes.bottom} style={{ marginBottom: "6rem" }}>
         <div>Looking for a service?</div>
         <Link to="/postRequirementNow">Get Started</Link>
       </div>

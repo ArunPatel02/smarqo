@@ -6,11 +6,11 @@ import Button from "../helper/buttons/Button";
 import { Link } from "react-router-dom";
 import Select from "../helper/select/Select";
 import { Avatar } from "@mui/material";
-import NotificationsIcon from '@mui/icons-material/Notifications';
-import EmailIcon from '@mui/icons-material/Email';
+import NotificationsIcon from "@mui/icons-material/Notifications";
+import EmailIcon from "@mui/icons-material/Email";
 
 const Header = () => {
-  const [islogin, setislogin] = useState(false);
+  const [islogin, setislogin] = useState(true);
   return (
     <div className="header_container">
       <div className="header">
@@ -32,12 +32,19 @@ const Header = () => {
         </div>
         <div className="right_header">
           <div className="right_header_section1">Join as a Professional</div>
-          <div className="right_header_section2" style={islogin && {gap : "10px"}}>
+          <div
+            className="right_header_section2"
+            style={islogin ? { gap: "10px" } : {}}
+          >
             {islogin ? (
               <div className="login_signup_btns">
                 <NotificationsIcon />
                 <EmailIcon />
-                <Avatar alt="Remy Sharp" src="/static/images/avatar/1.jpg" sx={{width : "20px" , height : "20px", fontSize : ".9rem"}}/>
+                <Avatar
+                  alt="Remy Sharp"
+                  src="/static/images/avatar/1.jpg"
+                  sx={{ width: "20px", height: "20px", fontSize: ".9rem" }}
+                />
               </div>
             ) : (
               <div className="login_signup_btns">

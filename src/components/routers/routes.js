@@ -17,7 +17,6 @@ const RoutesPath = () => {
       />
       <Route exact path={paths.login} element={<Login />} />
       <Route exact path={paths.signup} element={<Register />} />
-      <Route path="*" element={<Home />} />
     </Routes>
   );
 };
