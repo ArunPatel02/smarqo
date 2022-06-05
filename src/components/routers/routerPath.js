@@ -1,8 +1,8 @@
 const paths = {
-    home : "/",
-    login : "/login",
-    signup : "/signup",
-    postRequirementNow : "/postRequirementNow",
-}
+  home: "/smarqo",
+  login: "/smarqo/login",
+  signup: "/smarqo/signup",
+  postRequirementNow: "/smarqo/postRequirementNow",
+};
 
-module.exports = paths
+module.exports = paths;

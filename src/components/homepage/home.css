@@ -65,7 +65,7 @@
   display: flex;
   justify-content: space-between;
   gap: 10px;
-  z-index: 1000;
+  z-index: 98;
 }
 
 .homewrapper .home_right .home_right_section1 .section1_slip .slip {
@@ -107,14 +107,14 @@
   font-weight: 500;
 }
 
-.homewrapper .home_right .home_right_section1 .section1_slip .slip .triangle{
-    position: absolute;
-    width: 20px;
-    height: 20px;
-    bottom: -20px;
-    left: 0;
-    clip-path: polygon(0% 0% , 100% 0% , 100% 100%);
-    background-color: #484848;
+.homewrapper .home_right .home_right_section1 .section1_slip .slip .triangle {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  bottom: -20px;
+  left: 0;
+  clip-path: polygon(0% 0%, 100% 0%, 100% 100%);
+  background-color: #484848;
 }
 
 .homewrapper .home_right .home_right_section2 {
@@ -184,12 +184,12 @@
   font-weight: 600;
 }
 
-.homewrapper .home_right .home_right_section2 .section2_slip .triangle{
-    position: absolute;
-    width: 20px;
-    height: 20px;
-    bottom: -19px;
-    right: -1px;
-    clip-path: polygon(0% 0% , 100% 0% , 0% 100%);
-    background-color: #484848;
+.homewrapper .home_right .home_right_section2 .section2_slip .triangle {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  bottom: -19px;
+  right: -1px;
+  clip-path: polygon(0% 0%, 100% 0%, 0% 100%);
+  background-color: #484848;
 }

@@ -10,7 +10,7 @@ import NotificationsIcon from "@mui/icons-material/Notifications";
 import EmailIcon from "@mui/icons-material/Email";
 
 const Header = () => {
-  const [islogin, setislogin] = useState(true);
+  const [islogin, setislogin] = useState(false);
   return (
     <div className="header_container">
       <div className="header">
@@ -18,7 +18,7 @@ const Header = () => {
           <div className="logo">
             <img src={logosvg} alt="logo" />
           </div>
-          <Link to="/" className="company_name">
+          <Link to="/smarqo" className="company_name">
             SmarQo
           </Link>
           {/* <div className="explore">
@@ -48,17 +48,17 @@ const Header = () => {
               </div>
             ) : (
               <div className="login_signup_btns">
-                <Link to="/login" className="login_btn btn">
+                <Link to="/smarqo/login" className="login_btn btn">
                   Login
                 </Link>
-                <Link to="/signup" className="signup_btn btn">
+                <Link to="/smarqo/signup" className="signup_btn btn">
                   sign up
                 </Link>
               </div>
             )}
             <Button
               btn_text="post requirement"
-              btn_link="/postRequirementNow"
+              btn_link="/smarqo/postRequirementNow"
             />
           </div>
         </div>

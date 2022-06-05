@@ -57,7 +57,7 @@ const Login = () => {
             control={<Checkbox disableRipple style={{ color: "#202020" }} />}
             label="Remember me"
           />
-          <Link to="/forgetPassword" className={classes.forgetpassword}>
+          <Link to="/smarqo/forgetPassword" className={classes.forgetpassword}>
             Forgot Password
           </Link>
         </div>
@@ -68,7 +68,7 @@ const Login = () => {
         <div className={classes.bottomcardOr}>OR</div>
         <Button
           btn_text="Register"
-          btn_link="/signup"
+          btn_link="/smarqo/signup"
           style={{
             fontSize: "1rem",
             margin: "0px auto",
@@ -80,11 +80,11 @@ const Login = () => {
       </div>
       <div className={classes.bottom}>
         <div>Offering a Service?</div>
-        <Link to="/postRequirementNow">Join as a professional</Link>
+        <Link to="/smarqo/postRequirementNow">Join as a professional</Link>
       </div>
       <div className={classes.bottom} style={{ marginBottom: "6rem" }}>
         <div>Looking for a service?</div>
-        <Link to="/postRequirementNow">Get Started</Link>
+        <Link to="/smarqo/postRequirementNow">Get Started</Link>
       </div>
     </div>
   );
