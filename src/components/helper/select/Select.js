@@ -41,7 +41,7 @@ const SelectHelper = (props) => {
   };
 
   return (
-    <FormControl>
+    <FormControl id={props.id}>
       <Select
         displayEmpty
         value={value}
