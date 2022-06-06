@@ -119,6 +119,13 @@
   cursor: pointer;
 }
 
+@media (max-width: 600px) {
+  .header_container .header .right_header .right_header_section1,
+  #companyExplore {
+    display: none;
+  }
+}
+
 /* .header_container
   .header
   .right_header

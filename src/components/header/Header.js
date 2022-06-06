@@ -28,6 +28,7 @@ const Header = () => {
             options={["option1", "option2", "optiom3"]}
             placeholder="Explore"
             className="explore"
+            id="companyExplore"
           />
         </div>
         <div className="right_header">
